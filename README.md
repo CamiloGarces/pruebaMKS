@@ -1,5 +1,5 @@
 
 In the project directory, please run:
-### `npm start`
+### `npm install`
 and
 ### `npm start`
